@@ -4,9 +4,11 @@ on:
   push:
     branches:
       - main
+      - reuben
   pull_request:
     branches:
       - main
+      - reuben
 
 jobs:
   cypress-run:
