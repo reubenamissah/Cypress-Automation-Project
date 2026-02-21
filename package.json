@@ -1,0 +1,17 @@
+{
+  "name": "automation2026",
+  "version": "1.0.0",
+  "description": "Qace Academy Automation 2026",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Reuben Techy",
+  "license": "ISC",
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.3.1"
+  },
+  "dependencies": {
+    "cypress-file-upload": "^5.0.8"
+  }
+}
